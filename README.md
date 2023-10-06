@@ -72,8 +72,8 @@ def generate_trading_signal(price_data):
         else:
             signal.append('Sell')
     price_data['Signal'] = ['Hold'] + signal  # Assume 'Hold' for the first entry as there's no prior day to compare
-![Alt text for the image]([URL_TO_THE_IMAGE](https://chat.openai.com/c/55e1e0c8-5652-4525-94ee-2d71e043a14b))
-![Alt text for the image]([URL_TO_THE_IMAGE](https://chat.openai.com/c/55e1e0c8-5652-4525-94ee-2d71e043a14b))
+![Alt text for the image]([URL_TO_THE_IMAGE]((https://github.com/darkknight4563/OpenAI-Residency-Sample-Code/blob/main/DALL%C2%B7E%202023-10-06%2010.39.22%20-%20Oil%20painting%20in%20the%20style%20reminiscent%20of%20the%20Renaissance%20era_%20An%20allegorical%20depiction%20of%20the%20symbiotic%20relationship%20between%20human%20intuition%20and%20AI.%20A.png))
+![Alt text for the image]([URL_TO_THE_IMAGE](https://github.com/darkknight4563/OpenAI-Residency-Sample-Code/blob/main/DALL%C2%B7E%202023-10-06%2010.39.08%20-%20Illustration_%20An%20intricate%20flowchart%20showcasing%20the%20process%20of%20the%20AI%20trading%20system.%20Starting%20from%20data%20collection%20from%20sources%20like%20CoinMarketCap%20an.png)
 
 
 # Usage:
