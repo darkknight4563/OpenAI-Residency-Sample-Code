@@ -72,6 +72,9 @@ def generate_trading_signal(price_data):
         else:
             signal.append('Sell')
     price_data['Signal'] = ['Hold'] + signal  # Assume 'Hold' for the first entry as there's no prior day to compare
+![Alt text for the image]([URL_TO_THE_IMAGE](https://chat.openai.com/c/55e1e0c8-5652-4525-94ee-2d71e043a14b))
+![Alt text for the image]([URL_TO_THE_IMAGE](https://chat.openai.com/c/55e1e0c8-5652-4525-94ee-2d71e043a14b))
+
 
 # Usage:
 generate_trading_signal(price_data)
